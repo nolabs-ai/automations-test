@@ -2,7 +2,7 @@
 """Simple webserver using only the Python standard library.
 
 Usage:
-    python3 server.py            # serves on port 8000
+    python3 server.py            # serves on port 8080
     python3 server.py 3000       # serves on port 3000
 """
 
